@@ -1,2 +1,2 @@
-# Obbligo-Verita
-Gioca a obbligo o overità con le tue domande con questo semplice programma
+# Obbligo o Verità
+Gioca a obbligo o verità con le tue domande con questo semplice programma
