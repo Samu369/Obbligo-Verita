@@ -45,7 +45,7 @@ print("\n Prima di iniziare a giocare devi avere scritto un elenco degli obbligh
 Step1 = input()
 if(Step1 == "no"):
     os.system("cls")
-    print("Per iniziare a giocare dovrai scrivere alcuni obblighi e verità nei file Obblighi.txt e Verità.txt presenti in questa cartella, dopo averlo fatto riavvia il prigramma \n Se hai bisogno di aiuto consulta la documentazione presente a questo link: \n <> ")
+    print("Per iniziare a giocare dovrai scrivere alcuni obblighi e verità nei file Obblighi.txt e Verità.txt presenti in questa cartella, dopo averlo fatto riavvia il prigramma \n Se hai bisogno di aiuto consulta la documentazione presente a questo link: \n https://github.com/Samu369/Obbligo-Verita/blob/9babc0cc4102cc752312f027b85fcf5caf94e945/Documentazione.md ")
     os.system("pause")
     quit()
 else:
