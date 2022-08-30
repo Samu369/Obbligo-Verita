@@ -6,7 +6,7 @@ La risposta a questa domanda può cambiare in base alla versione a cui si decide
 ## Come scelgo la versione con cui giocare?
 Consiglio di scegliere l'ultima versione stabile (quindi senza beta nel nome) che puoi scaricare dalla sezione Relases di GitHub
 ## Come scarico le versioni meno recenti?
-Puoi trovare tutte le versioni uscite finora (eccetto la meno recente che trovi nella schermata principale) nella cartella "Versioni" organizzate in file .zip
+Puoi trovare tutte le versioni uscite finora nella sezione [Relases](https://github.com/Samu369/Obbligo-Verita/releases) di GitHub
 
 - Se hai qualche altra domanda non esitare a contattarmi
 - Samu369
