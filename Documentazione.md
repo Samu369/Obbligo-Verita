@@ -1,5 +1,5 @@
 # Documentazione v1.0
-### Elanco sistemi operativi supporatati
+### Elenco sistemi operativi supporatati
 - Windows
 - *Si può giocare anche su altri sistemi operativi installando Python3 e apportando qualche modifica al file "Obbligo o Verità.py"*  _**Raccomandato solo a utenti esperti**_
 ### Come giocare
