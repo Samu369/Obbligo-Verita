@@ -57,6 +57,8 @@ else:
     print(Vrt_str + "  Verità")
 os.system("pause")
 os.system("cls")
+Obl = Obl + 1
+Vrt = Vrt - 1
 
 
 
