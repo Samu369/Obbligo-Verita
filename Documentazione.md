@@ -1,8 +1,9 @@
-# Documentazione v1.0
+# Documentazione v1.5
 ### Elenco sistemi operativi supporatati
 - Windows
 - Linux
 ### Come giocare su Windows
+- Scarica il file "Obbligo o Verità.exe"
 - Eseguire il file "Obbligo o Verità.exe"
 - Arrestarlo dopo la prima esecuzione
 - Nella cartella in cui è stato eseguito il file verranno generati due file: "Obblighi.txt" e "Verità.txt"
