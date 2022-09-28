@@ -17,7 +17,7 @@
 - Scarica il file "Obbligo o Verità.py"
 - Assicurati di avere installato python3 eseguendo il comando `sudo apt install python3` nel terminale
 - Apri il terminale e spostati nella cartella in cui hai salvato il file usando `cd [percorso cartella]`
-- Esegui il file digitando `python3 "[percorsofile]"`
+- Esegui il file digitando `python3 python3 Obbligo.o.Verita.py`
 - Subito dopo averlo eseguito chiudi il terminale
 - Nella cartella in cui è stato eseguito il file verranno generati due file: "Obblighi.txt" e "Verità.txt"
 - Aprite i file e senza modificare la prima riga scrivete un obbligo (nel caso si tratti del file "Obblighi.txt") o una verità (nel caso si tratti del file "Verità.txt") per ogni riga
