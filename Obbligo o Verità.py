@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # IMPORAZIONE
 import os
 import random
